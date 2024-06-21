@@ -1,3 +1,3 @@
 # Data-Structure
 
-This Repository contints some data structure problem, using C/C++
+This Repository containts some data structure problem, using C/C++
