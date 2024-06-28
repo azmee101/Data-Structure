@@ -42,6 +42,8 @@ int main()
     myStack.top = 0;
     int item;
 
+    // some manual operation
+    
     push(&myStack, 1);
     push(&myStack, 2);
     push(&myStack, 3);
