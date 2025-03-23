@@ -35,7 +35,6 @@ void insert_last(Node*& lastNode, int data, Node*& tail){
     return;
 }
 
-
 void display(Node*& head){
     Node* tmp = head;
     while(tmp != nullptr){
